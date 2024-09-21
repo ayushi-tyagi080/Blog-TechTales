@@ -12,5 +12,5 @@ Node.js: The runtime environment for executing JavaScript code on the server.
 Express.js: A minimal and flexible Node.js web application framework.
 Handlebars: A popular templating engine that simplifies HTML markup.
 Pug: A high-performance template engine that allows for simpler and cleaner code structure.
-HTML: For structuring and styling the front end of the application.
+HTML: For structuring and styling the front end of the applications.
 
